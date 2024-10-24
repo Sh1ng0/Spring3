@@ -1,8 +1,8 @@
 import singleton.SingletonUndo;
 
-public class Main {
+public class SingletonRunner {
 
-    public static void main(String[] args) {
+    public void SingletonRunner() {
 
         SingletonUndo undoManager = SingletonUndo.getInstance();
 
