@@ -1,4 +1,4 @@
-import singleton.SingletonUndo;
+package singleton;
 
 public class SingletonRunner {
 
