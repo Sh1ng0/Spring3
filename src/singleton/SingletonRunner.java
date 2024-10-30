@@ -1,9 +1,7 @@
-import singleton.SingletonUndo;
+package singleton;
 
-public class Main {
-
-    public static void main(String[] args) {
-
+public class SingletonRunner {
+    public static void SingletonRunner() {
         SingletonUndo undoManager = SingletonUndo.getInstance();
 
         System.out.println("Añadir comandos:");
@@ -22,3 +20,7 @@ public class Main {
     }
 
 }
+
+
+
+
