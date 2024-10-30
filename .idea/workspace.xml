@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78bee4af-1220-4d93-be58-b8da4db1aa79" name="Changes" comment="Singleton main changed to runner">
+    <list default="true" id="78bee4af-1220-4d93-be58-b8da4db1aa79" name="Changes" comment="Added observer">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -24,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/feature/builder" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -60,11 +63,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Don José/Documents/Programación/Intellij/SingletonOmega"
+    "last_opened_file_path": "C:/Users/Don José/Documents/Programación/Intellij/SingletonOmega/src/observer"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Don José\Documents\Programación\Intellij\SingletonOmega\src\observer" />
+      <recent name="C:\Users\Don José\Documents\Programación\Intellij\SingletonOmega\src\builder" />
       <recent name="C:\Users\Don José\Documents\Programación\Intellij\SingletonOmega\src\command" />
       <recent name="C:\Users\Don José\Documents\Programación\Intellij\SingletonOmega\src\abstractFactory" />
     </key>
@@ -126,7 +131,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729768145346</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Singleton main changed to runner">
+      <option name="closed" value="true" />
+      <created>1730288028278</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730288028278</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added observer">
+      <option name="closed" value="true" />
+      <created>1730288408140</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730288408140</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,19 +155,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="feature/singleton" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -159,6 +168,7 @@
     <MESSAGE value="AbstractFactory big ball of mudness" />
     <MESSAGE value="Command big push" />
     <MESSAGE value="Singleton main changed to runner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Singleton main changed to runner" />
+    <MESSAGE value="Added observer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added observer" />
   </component>
 </project>
